@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T05:25:35.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.7" etag="KRohkrDdOPgWft-PLSRp" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T06:21:18.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="y7RDRUBR0B4kBRaTWYbF" version="21.3.7" type="github">
   <diagram name="Page-1" id="cU9dDLEfGN30MugA0F8E">
-    <mxGraphModel>
+    <mxGraphModel dx="2193" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A-11O_EXxNJiz71dBgQT-5" value="&lt;h1 style=&quot;font-size: 30px;&quot;&gt;LOAN - FLOW&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="435.24" y="-210" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A-11O_EXxNJiz71dBgQT-6" target="A-11O_EXxNJiz71dBgQT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-29" value="EMEA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;fontSize=20;" vertex="1" connectable="0" parent="A-11O_EXxNJiz71dBgQT-12">
+          <mxGeometry x="-0.2159" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A-11O_EXxNJiz71dBgQT-6" target="A-11O_EXxNJiz71dBgQT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-30" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot; face=&quot;Architects Daughter&quot; style=&quot;font-size: 22px;&quot;&gt;APAC&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A-11O_EXxNJiz71dBgQT-28">
+          <mxGeometry x="0.1112" y="-1" relative="1" as="geometry">
+            <mxPoint x="-70" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-7" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;GIW&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Global Information Warehouse&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="795" y="10" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-8" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;FlexCube&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="465.24" y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-9" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Entitlement Flow -&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(CDBE + CDCB)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-450" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-16" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;AFS&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Automated Financial System&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="60" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-17" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;AFS &lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Automated Financial System/Account FulFilment System&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-520" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-18" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;CDCB&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;(Citi Direct Commercial Banking) - USER FLOW&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-490" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-19" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;API Orchestration&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-340" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-21" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Upstream and Downstream &lt;/span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Connectivity for all partner regions&lt;/font&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-410" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-22" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Database Administration&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-370" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-23" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;LEGEND:&lt;/span&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="-550" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-24" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;CDBE&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;USER FLOW&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-530" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-25" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;CBUSOL&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Citi Business Online Loans&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-490" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-26" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;GFCID&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Global Finance Customer Identification&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-460" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-27" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;CASH&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Deposit made by clients&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-430" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="435.24" y="-125" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="A-11O_EXxNJiz71dBgQT-33">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-6" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;DATA SOURCES&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="A-11O_EXxNJiz71dBgQT-33">
+          <mxGeometry y="15" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=-0.127;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A-11O_EXxNJiz71dBgQT-6" target="A-11O_EXxNJiz71dBgQT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-11O_EXxNJiz71dBgQT-35" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot; face=&quot;Architects Daughter&quot; style=&quot;font-size: 22px;&quot;&gt;NAM&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A-11O_EXxNJiz71dBgQT-34">
+          <mxGeometry x="0.2587" y="-1" relative="1" as="geometry">
+            <mxPoint x="83" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
